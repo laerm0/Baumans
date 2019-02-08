@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="749"/>
+  <unicode hex="006D"/>
+  <outline>
+    <contour>
+      <point x="65" y="480" type="line"/>
+      <point x="65" y="0" type="line" name="hr01"/>
+      <point x="153" y="0" type="line"/>
+      <point x="153" y="396" type="line"/>
+      <point x="328" y="396" type="line"/>
+      <point x="328" y="0" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="416" y="396" type="line"/>
+      <point x="457" y="396" type="line" smooth="yes"/>
+      <point x="500" y="396"/>
+      <point x="530" y="396"/>
+      <point x="554" y="383" type="curve" smooth="yes"/>
+      <point x="597" y="360"/>
+      <point x="601" y="317"/>
+      <point x="601" y="280" type="curve" smooth="yes"/>
+      <point x="601" y="0" type="line"/>
+      <point x="689" y="0" type="line"/>
+      <point x="689" y="280" type="line" smooth="yes"/>
+      <point x="689" y="344"/>
+      <point x="683" y="413"/>
+      <point x="619" y="453" type="curve" smooth="yes"/>
+      <point x="585" y="475"/>
+      <point x="542" y="480"/>
+      <point x="506" y="480" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <note>&#x422;&#x443;&#x442; &#x454; &#x441;&#x443;&#x43c;&#x43d;&#x456;&#x432;&#x43d;&#x438;&#x439; &#x43c;&#x43e;&#x43c;&#x435;&#x43d;&#x442;
+&#x42f;&#x43a;&#x449;&#x43e; &#x437;&#x430;&#x43b;&#x438;&#x448;&#x438;&#x442;&#x438; &#x432;&#x456;&#x441;&#x442;&#x430;&#x43d;&#x44c; &#x43c;&#x456;&#x436; &#x441;&#x442;&#x435;&#x43c;&#x430;&#x43c;&#x438; &#x43e;&#x434;&#x43d;&#x430;&#x43a;&#x43e;&#x432;&#x43e;&#x44e; &#x442;&#x43e; &#x446;&#x435; &#x432;&#x456;&#x437;&#x443;&#x430;&#x43b;&#x44c;&#x43d;&#x430; &#x43a;&#x430;&#x442;&#x430;&#x441;&#x442;&#x440;&#x43e;&#x444;&#x430; &#x432; &#x434;&#x440;&#x456;&#x431;&#x43d;&#x438;&#x445; &#x43a;&#x435;&#x433;&#x43b;&#x44f;&#x445;;
+&#x430; &#x44f;&#x43a;&#x449;&#x43e; &#x43e;&#x442;&#x430;&#x43a; &#x442;&#x440;&#x43e;&#x448;&#x43a;&#x438; &#x437;&#x441;&#x443;&#x43d;&#x443;&#x442;&#x438; &#x442;&#x43e; &#x443; &#x432;&#x435;&#x43b;&#x438;&#x43a;&#x438;&#x445;...</note>
+  <lib>
+  <dict>
+    <key>note</key>
+Тут є сумнівний момент
+Якщо залишити вістань між стемами однаковою то це візуальна катастрофа в дрібних кеглях;
+а якщо отак трошки зсунути то у великих...  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-125" width="209" />
+      <hstem pos="0" width="84" />
+      <hstem pos="480" width="-20" />
+      <vstem pos="65" width="88" />
+      <vstem pos="333" width="88" />
+      <vstem pos="601" width="88" />
+      <vstem pos="697" width="77" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

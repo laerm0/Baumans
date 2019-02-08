@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="245"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="190" y="380" type="line"/>
+      <point x="190" y="700" type="line"/>
+      <point x="114" y="700" type="line"/>
+      <point x="114" y="380" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="637" type="line"/>
+      <point x="174" y="700" type="line"/>
+      <point x="74" y="700" type="line"/>
+      <point x="55" y="637" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="15" width="88" />
+      <hstem pos="236" width="88" />
+      <hstem pos="637" width="88" />
+      <vstem pos="-196" width="94" />
+      <vstem pos="204" width="242" />
+      <vstem pos="204" width="94" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

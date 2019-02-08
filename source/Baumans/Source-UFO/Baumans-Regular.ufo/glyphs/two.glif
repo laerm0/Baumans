@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two" format="1">
+  <advance width="532"/>
+  <unicode hex="0032"/>
+  <outline>
+    <contour>
+      <point x="472" y="511" type="line"/>
+      <point x="472" y="636"/>
+      <point x="388" y="709"/>
+      <point x="248" y="709" type="curve" smooth="yes"/>
+      <point x="135" y="709"/>
+      <point x="73" y="647"/>
+      <point x="32" y="572" type="curve"/>
+      <point x="106" y="510" type="line"/>
+      <point x="137" y="574"/>
+      <point x="183" y="618"/>
+      <point x="251" y="618" type="curve" smooth="yes"/>
+      <point x="333" y="618"/>
+      <point x="371" y="570"/>
+      <point x="371" y="516" type="curve"/>
+    </contour>
+    <contour>
+      <point x="466" y="0" type="line"/>
+      <point x="466" y="94" type="line"/>
+      <point x="87" y="94" type="line"/>
+      <point x="87" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="511" type="curve"/>
+      <point x="371" y="516" type="line"/>
+      <point x="371" y="456"/>
+      <point x="349" y="411"/>
+      <point x="292" y="367" type="curve" smooth="yes"/>
+      <point x="181" y="281"/>
+      <point x="42" y="187"/>
+      <point x="42" y="44" type="curve" smooth="yes"/>
+      <point x="42" y="0" type="line"/>
+      <point x="132" y="0" type="line"/>
+      <point x="132" y="44" type="line" smooth="yes"/>
+      <point x="132" y="135"/>
+      <point x="246" y="215"/>
+      <point x="369" y="311" type="curve"/>
+      <point x="436" y="368"/>
+      <point x="472" y="416"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>39</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>488</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-10" width="88" />
+      <hstem pos="391" width="88" />
+      <hstem pos="612" width="88" />
+      <vstem pos="-132" width="242" />
+      <vstem pos="16" width="94" />
+      <vstem pos="416" width="94" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
