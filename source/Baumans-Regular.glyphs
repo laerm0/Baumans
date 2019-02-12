@@ -3,6 +3,14 @@
 copyright = "Copyright 2019 The Baumans Project Authors (github.com/laerm0/Baumans) with Reserved Font Name \"Baumans\".";
 customParameters = (
 {
+name = openTypeNameLicenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = openTypeNameUniqueID;
+value = "Cyreal(www.cyreal.org): Baumans: 2011";
+},
+{
 name = openTypeOS2Panose;
 value = (
 2,
@@ -99,7 +107,7 @@ customParameters = (
 name = TTFStems;
 value = (
 {
-horizontal = 0;
+horizontal = 1;
 name = "X: 84";
 width = 84;
 },
